@@ -7,4 +7,4 @@ A collection of some of my favourite wallpapers.
 ## Installation
 
 1. Local install: clone repo and run install script
-2. CI/Image install: `COPY --from=ghcr.io/SimonWoodtli/wallpapers:latest /backgrounds /where/You/Want`
+2. CI/Image install: `COPY --from=ghcr.io/simonwoodtli/wallpapers:latest /backgrounds /where/You/Want`
