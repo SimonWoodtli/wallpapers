@@ -1,0 +1,4 @@
+#!/bin/bash
+[[ -d $HOME/.local/share/backgrounds ]] || mkdir -p $HOME/.local/share/backgrounds
+target="$HOME/.local/share/backgrounds"
+cp gruvbox/* "${target}"
