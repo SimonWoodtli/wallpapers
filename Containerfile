@@ -1,2 +1,2 @@
 FROM scratch
-COPY gruvbox/* /backgrounds
+COPY gruvbox/* /backgrounds/
